@@ -27,7 +27,7 @@ scheme: Paradox
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "Hi, nice to meet you"
+    slogan: "一个沉迷与游戏与编程的 Android程序员"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
@@ -85,7 +85,7 @@ fonts: Roboto, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "
 
 # SNS Menu
 sns:
-    email: youremail@email.com
+    email: 805191941@qq.com
     facebook: "https://www.facebook.com/facebook"
     twitter: "https://twitter.com/twitter"
     googleplus: "https://www.google.com/"
@@ -101,17 +101,17 @@ sns:
 # SNS Share Switch
 sns_share:
     twitter: true
-    facebook: true
+    facebook: false
     googleplus: true
     weibo: true
     linkedin: false
-    qq: false
+    qq: ture
     telegram: false
 
 # Sidebar User Dropdown
 dropdown:
     Email Me:
-        link: "#"
+        link: "805191941@qq.com"
         icon: email
 
 # Sidebar Categories Switch
