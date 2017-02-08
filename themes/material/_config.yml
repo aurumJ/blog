@@ -27,7 +27,7 @@ scheme: Paradox
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "一个沉迷与游戏与编程的 Android程序员"
+    slogan: "一个沉迷于游戏与编程的 Android 程序员"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
