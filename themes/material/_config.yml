@@ -85,7 +85,7 @@ fonts: Roboto, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "
 
 # SNS Menu
 sns:
-    email: 805191941@qq.com
+    email: mailto:805191941@qq.com
     facebook: "https://www.facebook.com/facebook"
     twitter: "https://twitter.com/twitter"
     googleplus: "https://www.google.com/"
