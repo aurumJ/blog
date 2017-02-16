@@ -5,7 +5,7 @@ tags:
   - Android
   - Go
   - 原创
-thumbnail: /img/blog/Protection.jpg
+thumbnail: /img/blog/Protection.png
 ---
 
 最近一阵遇到了一个项目需求,就是手机的 app 端与服务器端通信的加密问题,因为这个项目还是处于功能验证阶段,之前好多包括账号密码大多都是通过明文传输,这样十分不安全.
