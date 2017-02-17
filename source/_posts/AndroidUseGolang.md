@@ -28,15 +28,3 @@ thumbnail: /img/blog/Protection.png
   还是上面那个例子,有一天领导觉得这样不安全,员工万一把钥匙丢了那岂不是谁都能进入仓库了吗?所以领导把仓库的锁换了,重新给员工发了钥匙,而这次的员工的钥匙就只能锁门,而想要开锁的时候就需要领导来做了.
 
 以上的例子可能有些不合适的地方,但是确实可以表达出两种加密的特点.
-
-
-以下是我查找关于 Go 语言加密的的一些资料
-> [漫谈 RSA 非对称加密解密](http://www.jianshu.com/p/51bb0ad0b113)
-
->[Go 加密解密之 RSA](http://blog.studygolang.com/2013/01/go%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E4%B9%8Brsa/)
-
-> [GO 加密解密 RSA 番外篇：生成 RSA 密钥](http://blog.studygolang.com/2013/01/go%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86rsa%E7%95%AA%E5%A4%96%E7%AF%87-%E7%94%9F%E6%88%90rsa%E5%AF%86%E9%92%A5/)
-
-> [Go AES 加密解密](http://blog.studygolang.com/2013/01/go%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E4%B9%8Baes/)
-
-至于为什么选择 Go 语言进行实现,只是自己之前学习了一阵子(三分钟热度那种),也算是对 Go 语言有个基础理解,想要通过这次的使用加深一下理解,也能更好地学习一下关于 Go 语言在 Android 上的使用
