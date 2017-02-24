@@ -71,3 +71,6 @@ deploy:
   type: git
   repo: https://github.com/jinshilei/jinshilei.github.io.git
   branch: master
+  type: git
+  repo: https://git.coding.net/DL-J/DL-J.git
+  branch: gitcafe-pages
