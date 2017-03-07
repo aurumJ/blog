@@ -240,7 +240,7 @@ I/Jin: Response :hello, world!
 
 以下为在学习 HTTPS 相关内容时查询的一些资料,还有一些因为没有记录的原因,未能找到,如果有相关内容涉及到您的分享,请联系我处理.
 
-感谢这个分享知识的人.
+感谢那些分享知识的人.
 
 >[ Android Https 相关完全解析 当 OkHttp 遇到 Https](http://blog.csdn.net/lmj623565791/article/details/48129405)
 
