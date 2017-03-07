@@ -70,8 +70,8 @@ theme: material
 deploy:
   #type: git
   #repo: https://github.com/jinshilei/jinshilei.github.io.git
-  #branch: master
+  branch: master
   type: git
   repo: 
-   #https://git.coding.net/DL-J/DL-J.git, master
-   https://github.com/jinshilei/jinshilei.github.io.git, master
+   https://git.coding.net/DL-J/DL-J.git
+   https://github.com/jinshilei/jinshilei.github.io.git
