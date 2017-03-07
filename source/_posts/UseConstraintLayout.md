@@ -5,7 +5,7 @@ tags:
   - Android
   - ConstraintLayout
   - 原创
-thumbnail: /img/blog/three_buttons_working_as_expected.png
+thumbnail: /img/blog/three-buttons-working-as-expected.png
 ---
 
 ### 起因
