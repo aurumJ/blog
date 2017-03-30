@@ -1,12 +1,12 @@
 ---
-title: AndroidUseKotlin
+title: 使用 Kotlin 开发 Android 应用
 date: 2017-03-30 14:22:27
 tags:
   - Android
   - Kotlin
   - 原创
   - 学习笔记
-thumbnail: /img/blog/screen-shot.png
+thumbnail: /img/blog/kotlin.jpg
 ---
 
 ### 起因
