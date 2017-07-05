@@ -16,8 +16,10 @@ thumbnail: /img/blog/guanchazhe.jpg
 > 观察者模式: 在这个模式中,一个目标对象管理所有依赖它的观察者对象,并且在本身状态改变时主动发出通知
 
 ### UML 类图
+> 图片引自维基百科
 
 ![UML 类图](http://olihtbm3u.bkt.clouddn.com/image/07/05/Observer-pattern-class-diagram.png)
+
 
 ### 个人理解
 本人沉迷与游戏,特别是射击类游戏,那么这次就用 CSGO 中的一个设定来描述一下个人对观察者模式的理解.
@@ -123,3 +125,10 @@ class MainActivity : AppCompatActivity() {
     }
 }
 ```
+
+以下为一些参考资料,感谢这些分享知识的人
+>[维基百科 -- 观察者模式](https://zh.wikipedia.org/wiki/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F)
+
+>[设计模式 -- 观察者模式 (Java)](http://www.jianshu.com/p/109eb51accb9)
+
+>[学习、探究 Java 设计模式 -- 观察者模式](http://blog.csdn.net/a553181867/article/details/52454178)
