@@ -73,5 +73,5 @@ deploy:
   branch: master
   type: git
   repo: 
-   https://git.coding.net/DL-J/DL-J.git
-   #https://github.com/jinshilei/jinshilei.github.io.git
+   #https://git.coding.net/DL-J/DL-J.git
+   https://github.com/jinshilei/jinshilei.github.io.git
